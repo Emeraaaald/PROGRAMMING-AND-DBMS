@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DualFormUser", "DualFormUser\DualFormUser.vbproj", "{34DC2E5B-A1A5-47EE-A701-2DAAEE9B1504}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34DC2E5B-A1A5-47EE-A701-2DAAEE9B1504}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34DC2E5B-A1A5-47EE-A701-2DAAEE9B1504}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34DC2E5B-A1A5-47EE-A701-2DAAEE9B1504}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34DC2E5B-A1A5-47EE-A701-2DAAEE9B1504}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0B9BF15-0C87-411C-AAC4-2283E1B3962A}
+	EndGlobalSection
+EndGlobal
